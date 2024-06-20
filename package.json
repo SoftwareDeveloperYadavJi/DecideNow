@@ -1,0 +1,12 @@
+{
+  "name": "decideNow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SoftwareDeveloperYadavJi/decideNow.git",
+  "author": "theoopsguy <nitiny1524@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.3", 
+    "@types/webpack": "^5.28.0"
+  }
+}
